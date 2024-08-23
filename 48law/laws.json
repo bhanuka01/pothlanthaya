@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 1",
+            "head":"1",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 2",
+            "head":"1",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+
+
+        },
+
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 3",
+            "head":"1",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+
+        }
+
+
+    ]
+}
