@@ -4,12 +4,14 @@
             "title":"48 Laws of Power",
             "subtitle":"Law 1",
             "head":"48 Laws of Power",
-            "body":"1"
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
 
         },
         {
             "head":"The 33 Strategies of War",
-            "body":"ඔබට ඉහළින් සිටින අයට සැමවිටම ගැනීමට ."
+            "body":"ඔබට ඉහළින් සිටින අයට සැමවිටම ගැනීමට .",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
         }
 
     ]
