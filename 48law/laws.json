@@ -21,9 +21,33 @@
         {
             "title":"48 Laws of Power",
             "subtitle":"Law 3",
-            "head":"1",
+            "head":"ඔබේ අභිප්‍රායන් සඟවන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law3.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 4",
+            "head":"සියල්ලන්ටම ආදරය කරන්න, නමුත් ඔබේ බලය පාලනය කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law4.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 5",
+            "head":"සියල්ලටම වඩා උසස් බව පෙනෙන්නට ඉඩ දෙන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 6",
+            "head":"",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
 
         }
 
