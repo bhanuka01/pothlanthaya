@@ -1,56 +1,384 @@
 {
-    "data":[
+    "data": [
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 1",
+            "head": "කවදාවත් මාස්ටර් අභිබවා යන්න එපා",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 2",
+            "head": "මිතුරන් කෙරෙහි වැඩිපුර විශ්වාසය නොතබන්න, සතුරන් භාවිතා කරන්නේ කෙසේදැයි ඉගෙන ගන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law2.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 3",
+            "head": "ඔබේ අභිප්‍රායන් සඟවන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law3.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 4",
+            "head": "සියල්ලන්ටම ආදරය කරන්න, නමුත් ඔබේ බලය පාලනය කරන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law4.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 5",
+            "head": "සියල්ලටම වඩා උසස් බව පෙනෙන්නට ඉඩ දෙන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 6",
+            "head": "",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 7",
+            "head": "අන් අයගේ වැඩ සහ ණය ලබා ගන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law7.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 8",
+            "head": "ඔවුන් ඔබ වෙත පැමිණෙන ලෙස කරන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law8.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 9",
+            "head": "ක්‍රියාවෙන් නොව වචන වලින් ජය ගන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law9.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 10",
+            "head": "අසතුටුදායකයන් සහ අවාසනාවන්තයින්ගෙන් වැළකී සිටින්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law10.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 11",
+            "head": "මිනිසුන් ඔබ මත යැපෙන ආකාරය ඉගෙන ගන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law11.json"
+        },
+        {
+            "title": "48 Laws of Power",
+            "subtitle": "Law 12",
+            "head": "තෝරාගත් අවංකකම සහ ත්‍යාගශීලීත්වය භාවිතා කර ඔබේ වින්දිතයා නිරායුධ කරන්න",
+            "body": "1",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law12.json"
+        },
         {
             "title":"48 Laws of Power",
-            "subtitle":"Law 1",
-            "head":"කවදාවත් මාස්ටර් අභිබවා යන්න එපා",
+            "subtitle":"Law 13",
+            "head":"උදව් ඉල්ලන විට, ආත්මාර්ථකාමීත්වයට නොව, මිනිසුන්ගේ ආත්මාර්ථකාමිත්වයට ආයාචනා කරන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law1.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law13.json"
 
         },
         {
             "title":"48 Laws of Power",
-            "subtitle":"Law 2",
-            "head":"මිතුරන් කෙරෙහි වැඩිපුර විශ්වාසය නොතබන්න, සතුරන් භාවිතා කරන්නේ කෙසේදැයි ඉගෙන ගන්න",
+            "subtitle":"Law 14",
+            "head":"මිතුරෙකු මෙන් පෙනී සිටින්න, ඔත්තුකරුවෙකු ලෙස ක්‍රියා කරන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law2.json"
-
-
-        },
-
-        {
-            "title":"48 Laws of Power",
-            "subtitle":"Law 3",
-            "head":"ඔබේ අභිප්‍රායන් සඟවන්න",
-            "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law3.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law14.json"
 
         },
         {
             "title":"48 Laws of Power",
-            "subtitle":"Law 4",
-            "head":"සියල්ලන්ටම ආදරය කරන්න, නමුත් ඔබේ බලය පාලනය කරන්න",
+            "subtitle":"Law 15",
+            "head":"ඔබේ සතුරා සම්පූර්ණයෙන්ම විනාශ කරන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law4.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law15.json"
+
 
         },
         {
             "title":"48 Laws of Power",
-            "subtitle":"Law 5",
-            "head":"සියල්ලටම වඩා උසස් බව පෙනෙන්නට ඉඩ දෙන්න",
+            "subtitle":"Law 16",
+            "head":"ඔබේ හිඟකම බලය වැඩි කිරීමට භාවිතා කරන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law16.json"
 
         },
         {
             "title":"48 Laws of Power",
-            "subtitle":"Law 6",
-            "head":"",
+            "subtitle":"Law 17",
+            "head":"අනාවැකි කිව නොහැකි බව පවත්වා ගෙන යන්න: අනෙක් අය බියෙන් තබා ගන්න",
             "body":"1",
-            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law5.json"
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law17.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 18",
+            "head":"ඔබව ආරක්ෂා කර ගැනීමට බලකොටුවක් ගොඩනඟන්න එපා - හුදකලාව අනතුරුදායකයි",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law18.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 19",
+            "head":"ඔබ පහර දෙන අය දැන ගන්න: ඔබට එරෙහිව සටන් නොකළ යුත්තේ කවුද?",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law19.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 20",
+            "head":"කිසිවෙකුට කැපවීමෙන් වැළකී සිටින්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law20.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 21",
+            "head":"මෝඩයෙකු අල්ලා ගැනීමට, ඔබත් මෝඩයෙකු ලෙස පෙනී සිටිය යුතුය",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law21.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 22",
+            "head":"යටත් වීමේ උපක්‍රමය භාවිතා කරන්න: ඔබේ අත ශක්තිමත් කිරීමට දුර්වලකමට හැරෙන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law22.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 23",
+            "head":"ඔබේ බලවේග සංකේන්ද්‍රණය කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law23.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 24",
+            "head":"පරිපූර්ණ රාජ සභිකයෙකු වන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law24.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 25",
+            "head":"ඔබම නැවත නිර්මාණය කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law25.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 26",
+            "head":"ඔබේ අත් පිරිසිදුව තබා ගන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law26.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 27",
+            "head":"සියලු දෙනාටම ඇති ආශාව ක්‍රීඩා කරන්න, යමක් විශ්වාස කිරීමට",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law27.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 28",
+            "head":"ධෛර්යයෙන් ක්‍රියා කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law28.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 29",
+            "head":"සියල්ල අවසානය දක්වා සැලසුම් කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law29.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 30",
+            "head":"ඔබේ ජයග්‍රහණ පහසුවෙන් පෙනෙන්නට ඉඩ දෙන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law30.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 31",
+            "head":"විකල්ප ලබා දීම: ඔබේ කාඩ්පත් තෝරා ගැනීමට අන් අයට ඉඩ දෙන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law31.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 32",
+            "head":"මිනිසුන්ගේ මනඃකල්පිතයන් සමඟ සෙල්ලම් කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law32.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 33",
+            "head":"එක් එක් මිනිසාගේ ඇඟිලි සලකුණ සොයා ගන්න: සෑම කෙනෙකුටම පාලනය කරන බොත්තම",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law33.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 34",
+            "head":"ඔබේම ආකාරයෙන් රාජකීය වන්න: ගෞරවය සහ ගෞරවය ලබා ගැනීමට ක්‍රියා කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law34.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 35",
+            "head":"ඔබේ කාලය හොඳින් කළමනාකරණය කිරීමේ කලාව ප්‍රගුණ කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law35.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 36",
+            "head":"ඔබට නොලැබෙන දේ හෙළා දකින්න: නොසලකා හැරීම හොඳම පළිගැනීමයි",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law36.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 37",
+            "head":"සිත් ඇදගන්නාසුළු දර්ශන නිර්මාණය කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law37.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 38",
+            "head":"ඔබ කැමති පරිදි සිතන්න, නමුත් අනෙක් අය මෙන් ක්‍රියා කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law38.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 39",
+            "head":"ජලය කලවම් කරන්න මාළු අල්ලා ගැනීමට",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law39.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 40",
+            "head":"නොමිලේ දිවා ආහාරයක් නොමැත",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law40.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 41",
+            "head":"මහා පුරුෂයෙකුගේ සෙවණැල්ලේ ජීවත් නොවන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law41.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 42",
+            "head":"එඬේරාට පහර දී බැටළුවන් විසුරුවා හරින්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law42.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 43",
+            "head":"හදවත් සහ මනස මත වැඩ කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law43.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 44",
+            "head":"කැඩපත ආචරණයෙන් නිරායුධ කරන්න සහ කලකිරීමට පත් කරන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law44.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 45",
+            "head":"වෙනස්කම් අවශ්‍ය බව දේශනා කරන්න, නමුත් ප්‍රතිසංස්කරණ එකවර වැඩියි",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law45.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 46",
+            "head":"කිසි විටෙකත් පරිපූර්ණ බවක් නොපෙනේ",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law46.json"
+
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 47",
+            "head":"ඔබේ ලකුණ ඉක්මවා නොයන්න: ජයග්‍රහණයේදී නැවැත්වීමට දැන ගන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law47.json"
+
+        },
+        {
+            "title":"48 Laws of Power",
+            "subtitle":"Law 48",
+            "head":"ආකෘති රහිත වන්න",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/law48.json"
 
         }
-
-
     ]
 }
