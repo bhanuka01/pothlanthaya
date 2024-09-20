@@ -1,12 +1,21 @@
 {
     "data":[
         {
-            "title":"48 Laws \nof Power",
+            "title":"Laws of Power",
             "subtitle":"Law 1",
-            "head":"48 Laws of Power",
+            "head":"Laws of Power",
             "body":"1",
             "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/laws.json",
             "img":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/48law/img.png"
+
+        },
+        {
+            "title":"The Courage to be Disliked",
+            "subtitle":"Law 1",
+            "head":"Laws of Power",
+            "body":"1",
+            "url":"https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/chaps.json",
+            "img":"https://imgproxy.pdfroom.com/AZy9JafbYauaVgc1xHhrRYKdNbe7PZTIKvshjmA0mb8/rs:auto:1200:630:1/g:no/elc1bjliNncyTnEucG5n.jpg"
 
         }
     ]
