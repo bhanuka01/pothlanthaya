@@ -2,15 +2,33 @@
     "data": [
         {
             "title": "The Courage to be Disliked",
-            "subtitle": "Intro gkdd,cdhhnhngnhg;",
+            "subtitle": "Intro ",
             "head": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/intro.json"
         },
         {
             
             "subtitle": "Chap 1",
-            "head": "bgbfbfbbfgbfgbgf",
+            "head": "",
             "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/chap1.json"
+        },
+        {
+            
+            "subtitle": "Chap 2",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/chap2.json"
+        },
+        {
+            
+            "subtitle": "Chap 3",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/chap3.json"
+        },
+        {
+            
+            "subtitle": "Chap 4",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/couragedisliked/chap4.json"
         }
     ]
 }
