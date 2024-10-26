@@ -1,0 +1,44 @@
+{
+    "data": [
+        
+        {
+            
+            "title": "The Laws of Human Nature",
+            "subtitle": "Chap 1",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap1.json"
+        },
+        {
+            
+            "subtitle": "Chap 2",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap2.json"
+        },
+        {
+            
+            "subtitle": "Chap 3",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap3.json"
+        },
+        {
+            
+            "subtitle": "Chap 4",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap4.json"
+        },
+        {
+            
+            "subtitle": "Chap 5",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap5.json"
+        },
+        {
+            
+            "subtitle": "Chap 6",
+            "head": "",
+            "url": "https://raw.githubusercontent.com/bhanuka01/pothlanthaya/main/humanNature/chap6.json"
+        }
+
+    
+    ]
+}
